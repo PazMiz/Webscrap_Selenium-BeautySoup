@@ -40,11 +40,6 @@ Copy code
 driver = webdriver.Chrome()
 Fetch the web page using Selenium:
 
-python
-Copy code
-url = "https://example.com"
-driver.get(url)
-Wait for the page to load and JavaScript content to be rendered (if required):
 
 python
 Copy code
